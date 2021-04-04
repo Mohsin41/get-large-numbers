@@ -1,4 +1,4 @@
-# large-number
+# get-large-numbers
 
 [![Coverage Status](https://coveralls.io/repos/github/Mohsin41/large-numbers/badge.svg)](https://coveralls.io/github/Mohsin41/large-numbers)
 [![Build Status](https://travis-ci.com/Mohsin41/large-numbers.svg?branch=main)](https://travis-ci.com/Mohsin41/large-numbers)
@@ -12,7 +12,7 @@ It is a simple library that provide some easy methods to get large numbers.
 # Installation
 
 ```sh
-$ npm i large-number
+$ npm i get-large-numbers
 ```
 
 # Usage
@@ -20,7 +20,7 @@ $ npm i large-number
 you just need to import it in a file
 
 ```js
-require("large-number")();
+require("get-large-numbers")();
 ```
 
 ### Core
