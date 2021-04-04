@@ -10,13 +10,13 @@ const Numbers = {
   septillion: 24,
   octillion: 27,
   nonillion: 30,
-  decillion: 33,
-};
+  decillion: 33
+}
 
-for (let number in Numbers) {
+for (const number in Numbers) {
   module.exports = Number.prototype[number] = function () {
-    const result = this * Math.pow(10, Numbers[number]);
-    if (isNaN(result)) throw new Error("please pass a valid number");
-    return result;
-  };
+    const result = this * Math.pow(10, Numbers[number])
+    if (isNaN(result)) throw new Error('please pass a valid number')
+    return result
+  }
 }
