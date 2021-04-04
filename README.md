@@ -27,7 +27,7 @@ require("large-number")();
 
 These methods come bundled with this library :
 
-- [`hundered`]
+- [`hundred`]
 - [`thousand`]
 - [`million`]
 - [`billion`]
@@ -39,9 +39,9 @@ These methods come bundled with this library :
 - [`octillion`]
 - [`nonillion`]
 
-#### [hundered]
+#### [hundred]
 
-> Transform any given number to hundered.
+> Transform any given number to hundred.
 
 ```js
 Number(2).hundred();
