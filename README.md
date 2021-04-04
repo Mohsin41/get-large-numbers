@@ -107,8 +107,8 @@ Number(2).quintillion();
 > methods can be chained but currently dont accept any parameter.
 
 ```js
-Number(15).thousand().hundred();
-//=> 1500000
+Number(13).thousand().hundred();
+//=> 1300000
 ```
 
 # LICENSE
