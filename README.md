@@ -1,4 +1,4 @@
-# large-numbers
+# large-number
 
 [![Coverage Status](https://coveralls.io/repos/github/Mohsin41/large-numbers/badge.svg)](https://coveralls.io/github/Mohsin41/large-numbers)
 [![Build Status](https://travis-ci.com/Mohsin41/large-numbers.svg?branch=main)](https://travis-ci.com/Mohsin41/large-numbers)
