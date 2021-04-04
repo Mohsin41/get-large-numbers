@@ -1,3 +1,4 @@
+/* eslint-disable no-extend-native */
 const Numbers = {
   hundred: 2,
   thousand: 3,
