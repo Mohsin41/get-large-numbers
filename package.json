@@ -4,15 +4,15 @@
   "description": "An npm library for readable developer-friendly large numbers",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll",
+    "test": "jest jest --watchAll",
     "lint": "eslint .",
     "lint-fix": "eslint --fix .",
     "test-coverage": "jest --coverage",
-    "test:coveralls": "jest --coverage && coveralls < coverage/lcov.info"
+   "test:coveralls": "jest --coverage && coveralls < coverage/lcov.info"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mohsin41/large-numbers.git"
+    "url": "git+https://get-github.com/Mohsin41/large-numbers.git"
   },
   "keywords": [
     "numbers",
@@ -23,9 +23,9 @@
   "author": "Mohsin Afzal <mohsinafzal29@gmail.com> ",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Mohsin41/large-numbers/issues"
+    "url": "https://github.com/Mohsin41/get-large-numbers/issues"
   },
-  "homepage": "https://github.com/Mohsin41/large-numbers#readme",
+  "homepage": "https://github.com/Mohsin41/get-large-numbers#readme",
   "dependencies": {},
   "devDependencies": {
     "coveralls": "^3.1.0",
