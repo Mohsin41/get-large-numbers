@@ -7,7 +7,7 @@ An npm library for readable developer-friendly large numbers
 
 ## What is it?
 
-It is a simple library that provide some easy methods to get large numbers.
+It is a simple library that provide some easy methods to get large numbers.library is inspired by [this code war kata](https://www.codewars.com/kata/5b57a9bec19d96c0b80000c9/discuss/javascript).
 
 # Installation
 
@@ -20,7 +20,7 @@ $ npm i get-large-numbers
 you just need to import it in a file
 
 ```js
-require("get-large-numbers")();
+require("get-large-numbers");
 ```
 
 ### Core
