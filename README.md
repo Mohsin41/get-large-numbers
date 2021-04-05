@@ -111,6 +111,19 @@ Number(13).thousand().hundred();
 //=> 1300000
 ```
 
+#### [Alternative Syntax]
+
+These are two other syntaxes this library supported:
+
+```js
+(2).thousand();
+//=> 2000
+
+2..thousand();
+//=> 2000
+
+```
+
 # LICENSE
 
 MIT License
