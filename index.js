@@ -15,7 +15,7 @@ const Numbers = {
 }
 
 for (const number in Numbers) {
-  module.exports = Number.prototype[number] = function () {
+   Number.prototype[number] = function () {
     const result = this * Math.pow(10, Numbers[number])
     if (isNaN(result)) throw new Error('please pass a valid number')
     return result
