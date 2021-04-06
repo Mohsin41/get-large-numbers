@@ -4,7 +4,7 @@
   "description": "An npm library for readable developer-friendly large numbers",
   "main": "index.js",
   "scripts": {
-    "test": "jest jest --watchAll",
+    "test": "jest --watchAll",
     "lint": "eslint .",
     "lint-fix": "eslint --fix .",
     "test-coverage": "jest --coverage",
